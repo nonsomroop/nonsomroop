@@ -1,4 +1,4 @@
-### Hi dude 👋
+### Hello 👋
 
 I'm nanon, 4th ranking on CSCMS.ME
 first year student at CS@SIT, single and lonely for my whole life. 
