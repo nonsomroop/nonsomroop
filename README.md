@@ -1,8 +1,8 @@
 ### Hi there👋
 
-- I'm Non or you can call me Nanon 🙌 
-- first year student at CS@SIT KMUTT 🐜 
-- seeking for knowledge about computers 🖥️ 
+I'm Non or you can call me Nanon 🙌 <br> 
+first year student at CS@SIT KMUTT 🐜 <br>
+seeking for knowledge about computers 🖥️ <br>
 <!--
 **nonsomroop/nonsomroop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
