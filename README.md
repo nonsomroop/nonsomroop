@@ -1,8 +1,8 @@
-### Hello 👋
+### Hi there👋
 
-I'm nanon, 4th ranking on CSCMS.ME
-first year student at CS@SIT, single and lonely for my whole life. 
-seeking for someone who can fix bug in my heart
+I'm Non or you can call me Nanon 🙌
+first year student at CS@SIT KMUTT 🐜
+seeking for knowledge about computers 🖥️
 <!--
 **nonsomroop/nonsomroop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
