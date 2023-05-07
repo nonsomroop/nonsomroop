@@ -1,9 +1,5 @@
 ### Hi The Great Coders 
-
-<h2 align="center">I'm Natthanon or you can call me Nanon</h2> 
-<h2 align="center">A passionate programmer at CS@SIT KMUTT</h3>
 <hr>
-
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
