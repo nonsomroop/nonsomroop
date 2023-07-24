@@ -1,4 +1,4 @@
-### Hi The Great Coders 
+### S̄WẠS̄DĪ CHĀW LOK!!!
 <hr>
 <div align="center">
 <h3 align="left">Connect with me:</h3>
